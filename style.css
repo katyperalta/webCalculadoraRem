@@ -6,11 +6,19 @@ h1
     
     color:olive;
 }
+h2
+{
+    padding: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    
+    color:goldenrod;
+}
 body
 {
 
 }
-p,ul
+p,ul,a
 {
-
+    color: greenyellow;
 }
